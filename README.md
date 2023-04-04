@@ -5,7 +5,7 @@ hyperf的mongo协程组件
 因为 MongoDB 没有办法被 hook，所以当前项目会阻塞进程，请谨慎使用
 参考文档:https://hyperf.wiki/3.0/#/zh-cn/task
 
-生产环境使用mongo请参考hapi-sidecar边车服务
+生产环境使用mongo请参考[hapi-sidecar](https://github.com/nasustop/hapi-sidecar)边车服务
 
 ## 安装
 ```shell
